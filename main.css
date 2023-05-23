@@ -2,6 +2,11 @@ body {
     background-color: aquamarine;
     margin: 50px 25px 50px 25px;
     font-family: "jetbrains mono";
+
+    background: url(bg_image.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 img {
